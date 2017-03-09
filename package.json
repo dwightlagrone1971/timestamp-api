@@ -1,14 +1,26 @@
 {
   "name": "timestamp",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dwight LaGrone",
   "license": "MIT",
-  "description": "",
   "dependencies": {
-    "express": "^4.15.0"
-  }
+    "ejs": "^2.5.6",
+    "express": "^4.15.0",
+    "moment": "^2.17.1",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwightlagrone1971/timestamp-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwightlagrone1971/timestamp-api/issues"
+  },
+  "homepage": "https://github.com/dwightlagrone1971/timestamp-api#readme",
+  "description": ""
 }
