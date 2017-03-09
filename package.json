@@ -15,7 +15,7 @@
     "mongodb": "^2.2.24"
   },
   "devDependencies": {
-    "node": "*",
+    
   },
     "engines": {
       "node": "*",
